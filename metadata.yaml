@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5073
     wikipedia: http://en.wikipedia.org/wiki/Frances_Reynolds
 description: Augustan Reprint Society, publication number 27
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13485#An-Enquiry-Concerning-the-Principles-of-Taste-and-of-the-Origin-of-our-Ideas-of-Beauty-etc.
 gutenberg_issued: '2004-09-17'
 gutenberg_type: Text
 identifiers:
