@@ -1,0 +1,38 @@
+_repo: An-Enquiry-Concerning-the-Principles-of-Taste-and-of-the-Origin-of-our-Ideas-of-Beauty-etc._13485
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Clifford, James L. (James Lowry)
+    alias: Clifford, James Lowry
+    birthdate: 1901
+    deathdate: 1978
+    gutenberg_agent_id: '5083'
+    url: http://www.gutenberg.org/2009/agents/5083
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Frances
+    birthdate: 1729
+    deathdate: 1807
+    gutenberg_agent_id: '5073'
+    url: http://www.gutenberg.org/2009/agents/5073
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Reynolds
+description: Augustan Reprint Society, publication number 27
+gutenberg_issued: '2004-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13485'
+  lccn: '51013000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art -- Philosophy'
+- !lcsh 'Aesthetics'
+title: An Enquiry Concerning the Principles of Taste, and of the Origin of our Ideas
+  of Beauty, etc.
+url: http://www.gutenberg.org/ebooks/13485
